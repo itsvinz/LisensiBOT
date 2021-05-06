@@ -1,1 +1,2 @@
 # LisensiBOT
+VINZ DEVELOPER
